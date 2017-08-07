@@ -12,7 +12,7 @@
         }, 
         "displayname": "COEP-Hybrid Electronics.JPG", 
         "filename": "asset-v1:COE-Pune+ECE19+Anytime+type@asset+block@COEP-Hybrid_Electronics.JPG", 
-        "import_path": null, 
+        "import_path": "COEP-Hybrid Electronics.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -36,7 +36,7 @@
         }, 
         "displayname": "subs_3_yD_cEKoCk.srt.sjson", 
         "filename": "asset-v1:COE-Pune+ECE19+Anytime+type@asset+block@subs_3_yD_cEKoCk.srt.sjson", 
-        "import_path": null, 
+        "import_path": "subs_3_yD_cEKoCk.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
     }
